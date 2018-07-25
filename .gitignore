@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+# Semantic custom files and dist.
+!semantic/src/theme.config
+!semantic/src/themes/syn/
+!semantic/dist/semantic.min.css
+!semantic/dist/themes/syn/
